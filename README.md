@@ -1,4 +1,3 @@
-```markdown
 # 🔮 Consulta de Signo Zodiacal
 
 Projeto desenvolvido como parte da disciplina **Programação Web**, com o objetivo de criar uma aplicação front-end em PHP que identifica o **signo zodiáco** de um usuário com base na sua **data de nascimento**.
@@ -81,5 +80,4 @@ MIT License © 2025
 
 ## 👨‍🏫 Créditos
 
-Desenvolvido por João Victor Santos da Costa] para a disciplina **Programação Web - UNOPAR**   
-```
+Desenvolvido por João Victor Santos da Costa] para a disciplina **Programação Web - UNOPAR**
