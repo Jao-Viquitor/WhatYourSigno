@@ -4,12 +4,6 @@ Projeto desenvolvido como parte da disciplina **Programação Web**, com o objet
 
 ---
 
-## 📸 Prévia
-
-![Preview](assets/imgs/preview.jpg)
-
----
-
 ## 🧱 Estrutura do Projeto
 
 ```
