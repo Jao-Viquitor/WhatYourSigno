@@ -45,14 +45,10 @@ signos/
 
 1. Instale o XAMPP
 2. Copie o projeto para:
-   ```
-C:\xampp\htdocs\Projects\signos
-   ```
+   ```C:\xampp\htdocs\Projects\signos```
 3. Inicie o Apache pelo XAMPP
 4. Acesse no navegador:
-   ```
-http://localhost/Projects/signos
-   ```
+   ```http://localhost/Projects/signos   ```
 
 ---
 
